@@ -1,0 +1,5 @@
+package com.dagmar87.agenda.controller;
+
+public class AgendaController {
+
+}
